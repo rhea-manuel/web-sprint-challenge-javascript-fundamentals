@@ -19,8 +19,6 @@ class CuboidMaker {
     }
 }
 
-  
-
 // Test your volume and surfaceArea methods by uncommenting the logs below:
 // const cuboid = new CuboidMaker(4,5,5);
 const cuboid = new CuboidMaker(4,5,5);
