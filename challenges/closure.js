@@ -18,7 +18,7 @@ myFunction();
 
 // Explanation: 
 
-// Nested functions can access the internal variable because of closure. Closure allows child functions to access parent variables, but parent functions cannot access the child variables. This allows each function to keep scope.
+// Nested functions can access the internal variable because of closure. Closure allows child functions to access parent variables, but parent functions cannot access the child variables. This allows the function to keep scope while still accessing the variables it needs.
 
 
 /* Task 2: Counter */
